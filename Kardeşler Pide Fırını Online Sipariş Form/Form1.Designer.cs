@@ -481,7 +481,7 @@
             // pictureBox19
             // 
             this.pictureBox19.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox19.Image = global::Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties.Resources.kasar_peyniri;
+            this.pictureBox19.Image = global::Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties.Resources._2488456;
             this.pictureBox19.Location = new System.Drawing.Point(6, 65);
             this.pictureBox19.Name = "pictureBox19";
             this.pictureBox19.Size = new System.Drawing.Size(37, 35);
@@ -492,7 +492,7 @@
             // pictureBox18
             // 
             this.pictureBox18.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox18.Image = global::Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties.Resources.kasar_peyniri;
+            this.pictureBox18.Image = global::Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties.Resources.Mix__111_;
             this.pictureBox18.Location = new System.Drawing.Point(6, 28);
             this.pictureBox18.Name = "pictureBox18";
             this.pictureBox18.Size = new System.Drawing.Size(37, 35);

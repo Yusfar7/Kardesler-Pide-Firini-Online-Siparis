@@ -63,6 +63,16 @@ namespace Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2488456 {
+            get {
+                object obj = ResourceManager.GetObject("2488456", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _812x467_kavurma_1536053894483 {
             get {
                 object obj = ResourceManager.GetObject("812x467-kavurma-1536053894483", resourceCulture);
@@ -246,6 +256,16 @@ namespace Kardeşler_Pide_Fırını_Online_Sipariş_Form.Properties {
         internal static System.Drawing.Bitmap maxresdefault__1_1 {
             get {
                 object obj = ResourceManager.GetObject("maxresdefault (1)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mix__111_ {
+            get {
+                object obj = ResourceManager.GetObject("Mix (111)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
