@@ -86,5 +86,71 @@
   <ItemGroup>
     <None Include="Resources\image2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sucuklu-pide-tarifi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kasar-peyniri.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\812x467-kavurma-1536053894483.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tavuklu-pide.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind3ir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rekor-kiran-kfc-tavuk-tarifi-videolu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind1ir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abc-adisyon %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abc-adisyon %2811%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mix %2877%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abc-adisyon %2810%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\turkish-cheese-pide-egg-peynirli-yumurtali-pide-6-720x720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\in132dir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i122ges.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ind11ir.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
